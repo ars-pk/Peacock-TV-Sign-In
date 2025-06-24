@@ -13,7 +13,7 @@ Peacock TV offers an extensive collection of entertainment content, from blockbu
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://softwareinstaller.net/
+   :target: https://peacocktvaccount.net/
 
 This detailed guide will walk you through every aspect of the peacock sign in process, ensuring you can access your favorite content seamlessly across all devices.
 
